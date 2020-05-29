@@ -24,15 +24,15 @@
 
   "info-card#button-left": {
     "props": {
-      "isFullModeStyle": false,
-      "textPosition": "left",
-      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
-      "headline": "Shinig chrome",
-      "subhead": "Give your kitchen a cool style adding warm metallic finishes. <br>Available until January 2020.",
+      "headline": "Shining chrome",
       "callToActionMode": "link",
-      "callToAcionText": "Go to Colletion",
+      "callToAcionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAligment": "center"
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
+      "subhead": "Give your kitchen a cool style adding warm metallic finishes. <br>Available until January 2020.",
+      "textPosition": "left",
+      "textAligment": "center",
+      "isFullModeStyle": false
     }
   }
 }
