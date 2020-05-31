@@ -15,6 +15,6 @@
   },
 
   "flex-layout.col#rifht": {
-    "children": ["product-images", "product-price", "product-name"]
+    "children": ["product-price", "product-name", "buy-button"]
   }
 }
