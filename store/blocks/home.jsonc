@@ -11,15 +11,15 @@
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
-      "textPosition": "rigth",
+      "textPosition": "right",
       "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
       "headline": "Vintage Pink",
-      "subhead": "Give your kitchen a boho style adding vintage apparels. <br>Available until July 2020.",
+      "subhead": "Give your kitchen a boho style adding vintage apparels.<br>Available until January 2020.",
       "callToActionMode": "button",
-      "callToAcionText": "Explore",
+      "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "textAligment": "center",
-      "blockClass": "vintage"
+      "textAlignment": "center",
+      "blockClass": "vintage" //  <------------
     }
   },
 
