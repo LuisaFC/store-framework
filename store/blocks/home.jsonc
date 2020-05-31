@@ -4,7 +4,7 @@
   },
 
   "flex-layout.row": {
-    "children": ["rich-text", "flex-layout.col"]
+    "children": ["flex-layout.col"]
   },
 
   "flex-layout.col": {
