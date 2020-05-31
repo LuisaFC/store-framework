@@ -7,17 +7,16 @@
   padding: 24px;
 }
 
-.infoCardImage {
-  width: 50%;
+.infoCardContainer- {
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 0;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
   color: white;
   background-color: gray;
   border: transparent;
-  max-width: 1260px;
-  margin: 0 auto;
-  padding: 0;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
