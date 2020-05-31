@@ -7,7 +7,11 @@
   padding: 24px;
 }
 
-.infoCardImage .infoCardCallActionContainer :global(.vtex-button) {
+.infoCardImage {
+  width: 50%;
+}
+
+.infoCardCallActionContainer :global(.vtex-button) {
   color: white;
   background-color: gray;
   border: transparent;
